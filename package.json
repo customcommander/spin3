@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "spin3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/customcommander/spin3.git",
+  "author": "customcommander <hello@spinjs.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "cucumber": "^3.1.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
