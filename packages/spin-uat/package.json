@@ -1,0 +1,9 @@
+{
+  "name": "@customcommander/spin-uat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@customcommander/spin-app": "^1.0.0"
+  }
+}
